@@ -86,10 +86,10 @@ ul.short_list  > li {
   width: 33%;
 }
 
-#explain {
-  display: table;
-}
-
 li {
-  display: table-cell;
+  display: inline-block;
+  width: 33%;
+  vertical-align: middle;
+  letter-spacing: 0;
+  /* text-align: center; */
 }
