@@ -85,3 +85,11 @@ ul.short_list  > li {
   float: left;
   width: 33%;
 }
+
+#explain {
+  display: table;
+}
+
+li {
+  display: table-cell;
+}
