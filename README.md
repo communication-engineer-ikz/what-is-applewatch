@@ -12,4 +12,5 @@ Bootstrap の[こちら](https://getbootstrap.com/docs/5.0/examples/product/)の
 ~~2. リポジトリ直下のindex.html をダブルクリック。~~
 
 GitHub Pages でブラウザアクセスできるようになりました。
+
 https://communication-engineer-ikz.github.io/what_is_applewatch/
